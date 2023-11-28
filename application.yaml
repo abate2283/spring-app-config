@@ -8,5 +8,5 @@ eureka:
 
  okta:
    oauth2:
-     issuer:  https://dev-15585796.okta.com/oauth2/default
+     # issuer:  //https://dev-15585796.okta.com/oauth2/default// ** USE YOUR OWN URL **
      audience:  api://default
